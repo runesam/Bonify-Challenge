@@ -26,6 +26,10 @@ coverage
 # Bower dependency directory (https://bower.io/)
 bower_components
 
+# Parcel Temp
+.cache
+dist
+
 # node-waf configuration
 .lock-wscript
 
